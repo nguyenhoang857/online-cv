@@ -92,7 +92,7 @@ p {
 }
 .sidebar-wrapper .contact-list li {
   margin-bottom: 15px;
-  min-width: 400px;
+  min-width: 400px!important;
 }
 .sidebar-wrapper .contact-list li:last-child {
   margin-bottom: 0;
