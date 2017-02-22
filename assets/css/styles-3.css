@@ -51,6 +51,11 @@ p {
   -moz-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
 }
+
+.contact-container {
+   min-width: 240px;
+}
+
 .sidebar-wrapper {
   background: #5BB66F;
   position: absolute;
@@ -92,7 +97,6 @@ p {
 }
 .sidebar-wrapper .contact-list li {
   margin-bottom: 15px;
-  min-width: 400px!important;
 }
 .sidebar-wrapper .contact-list li:last-child {
   margin-bottom: 0;
